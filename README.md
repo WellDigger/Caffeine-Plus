@@ -8,6 +8,11 @@
 We value your feedback! Please comment in the Apple Store, or submit problems and requests directly to us: mac_support@163.com.
 
 
+![image](https://github.com/WellDigger/Caffeine-Plus/blob/master/1-1.png)
+![image](https://github.com/WellDigger/Caffeine-Plus/blob/master/2-1.png)
+![image](https://github.com/WellDigger/Caffeine-Plus/blob/master/3-1.png)
+
+
 
 
 
